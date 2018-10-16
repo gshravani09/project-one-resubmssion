@@ -1,0 +1,10 @@
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Form1.resources
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\shrav\OneDrive\Desktop\Project1-master\net project 1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
